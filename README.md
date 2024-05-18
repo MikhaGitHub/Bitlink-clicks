@@ -20,14 +20,18 @@ In this project used TOKEN Bitly.com, add your TOKEN in env file
 3. Run code a command in prompt python main.py "and your argument as a bitlink".
 
 #### Example
-1.Go directory file with downloaded code
+1. Go directory file with downloaded code
 
 ![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/b3699fe7-5656-44fd-b392-d1b87d0eb23d)
 
-2.Run the code in command prompt
+2. Download requirements.txt
+
+![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/3adefca9-6daf-4d7a-9bba-c713ea792a27)
+
+3. Run the code in command prompt
 
 ![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/0714d49e-d819-42e7-a62d-d95556805e33)
 
-Bitlink
+4. Bitlink
 
 ![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/3f985676-aeb4-47e9-aa5a-d355978b4096)
