@@ -17,7 +17,7 @@ In this project used TOKEN Bitly.com, add your TOKEN in env file
 ### For check transition on bitlink
 1. Open cmd press on keyboark ```Win + R``` and write cmd and press enter.
 2. Go to your directory where located your main.py.
-3. Run code a command in prompt python main.py "and your argument as a bitlink".
+3. Run code a command in prompt ```python main.py "and your argument as a bitlink".```
 
 #### Example
 1. Go directory file with downloaded code
@@ -28,10 +28,17 @@ In this project used TOKEN Bitly.com, add your TOKEN in env file
 
 ![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/3adefca9-6daf-4d7a-9bba-c713ea792a27)
 
+```pip install -r requirements.txt```
+
 3. Run the code in command prompt
 
 ![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/0714d49e-d819-42e7-a62d-d95556805e33)
 
+```python main.py "and your argument as a link".```
+
 4. Bitlink
 
 ![image](https://github.com/MikhaGitHub/Bitlink-clicks/assets/157389226/3f985676-aeb4-47e9-aa5a-d355978b4096)
+
+```python main.py "and your argument as a bitlink".```
+
