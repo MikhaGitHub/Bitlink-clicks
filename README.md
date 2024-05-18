@@ -6,7 +6,7 @@ Step one is modules and libriaries
 Install requirements.txt
 Command is ```pip install -r requirements.txt```
 Also needed download zip archive and unpack it
-In this project used TOKEN Bitly.com, add your TOKEN in env file
+In this project used BITLY_TOKEN Bitly.com, add your BITLY_TOKEN in env file
 
 
 ### How run the code in command prompt
