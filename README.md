@@ -42,3 +42,7 @@ In this project used BITLY_TOKEN Bitly.com, add your BITLY_TOKEN in env file
 
 ```python main.py "and your argument as a bitlink".```
 
+#### Notes
+Important is download requirements.txt
+```pip install -r requirements.txt```
+
