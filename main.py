@@ -36,7 +36,7 @@ def is_bitlink(url, token):
 
 def main():
     load_dotenv()
-    token = os.getenv('BITLY_TOKEN')
+    token = os.environ('BITLY_TOKEN')
     url = argparse.ArgumentParser(description="Enter url")
     url.add_argument('url', help='enter url')
     args = url.parse_args()
