@@ -42,8 +42,7 @@ def main():
     args = url.parse_args()
     url = args.url
     try:
-        response = is_bitlink(url,token)
-        if response:
+        if is_bitlink(url,token):
             parsed_url = urlparse(url)
             bitlink = f'{parsed_url.netloc}{parsed_url.path}'
             print(f'Total clicks: {get_clicks(bitlink, token)}')
