@@ -1,13 +1,12 @@
 # Reduction url
 
 ## Description
-This project work with Bitly.com for reduction url and check.
+This project work with Bitly.com for reduction url and check transitions on bilink.
+
+## Download requirements.txt
 Step one is modules and libriaries
 Install requirements.txt
 Command is ```pip install -r requirements.txt```
-Also needed download zip archive and unpack it
-In this project used BITLY_TOKEN Bitly.com, add your BITLY_TOKEN in env file
-
 
 ### How run the code in command prompt
 1. Open cmd press on keyboark ```Win + R``` and write cmd and press enter.
@@ -45,4 +44,6 @@ In this project used BITLY_TOKEN Bitly.com, add your BITLY_TOKEN in env file
 #### Notes
 Important is download requirements.txt
 ```pip install -r requirements.txt```
+Also needed download zip archive and unpack it
+In this project used BITLY_TOKEN Bitly.com, add your BITLY_TOKEN in env file
 
