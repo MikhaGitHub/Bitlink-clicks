@@ -44,8 +44,10 @@ Command is ```pip install -r requirements.txt```
 ```python main.py "and your argument as a bitlink".```
 
 #### Notes
-Important is download requirements.txt
-```pip install -r requirements.txt```
-Also needed download zip archive and unpack it
+Important is download requirements.txt:
+```pip install -r requirements.txt```.
+
+Also needed download zip archive and unpack it.
+
 In this project used BITLY_TOKEN Bitly.com, add your BITLY_TOKEN in env file
 
