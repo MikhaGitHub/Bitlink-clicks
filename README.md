@@ -3,7 +3,7 @@
 ## Description
 This project work with Bitly.com for reduction url and check transitions on bilink.
 
-## Download requirements.txt
+## Install requirements.txt
 Step one is modules and libriaries
 Install requirements.txt
 Command is ```pip install -r requirements.txt```
